@@ -3,7 +3,7 @@
 This is a sample project that sets up API and Dependencies to use Tesseract for different platforms. 
 
 ## Requires
-- Unity
+- Unity 2018.2.20f1
 
 
 ## Usage
